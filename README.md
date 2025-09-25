@@ -44,7 +44,7 @@ A Power BI project by **Sagar Dabhade** to analyze **Blinkit sales data** and ge
 
 ## 📌 Key Insights  
 🔹 Total Sales = **$1.20M**, Avg Rating = **3.92**  
-🔹 **Tier 3 outlets** have the highest sales (~$472K)  
+🔹 **Tier 3 outlets** have the highest sales ($472K)  
 🔹 **Regular Fat items** sell more than Low Fat  
 🔹 **Supermarket Type 1** is the top outlet (~$787K sales)  
 🔹 Sales peaked in **2018 ($205K)** before stabilizing  
